@@ -1,0 +1,26 @@
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.exe
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.deps.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.runtimeconfig.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.runtimeconfig.dev.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.dll
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.pdb
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.csprojAssemblyReference.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.AssemblyInfoInputs.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.AssemblyInfo.cs
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.csproj.CoreCompileInputs.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.dll
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.pdb
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.genruntimeconfig.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.exe
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.deps.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.runtimeconfig.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.runtimeconfig.dev.json
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.dll
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\bin\Debug\netcoreapp3.1\UASPAW_2.pdb
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.csprojAssemblyReference.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.AssemblyInfoInputs.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.AssemblyInfo.cs
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.csproj.CoreCompileInputs.cache
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.dll
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.pdb
+C:\Users\Maulana Alfiansyah\source\repos\UASPAW_Part 2\UASPAW_2\obj\Debug\netcoreapp3.1\UASPAW_2.genruntimeconfig.cache

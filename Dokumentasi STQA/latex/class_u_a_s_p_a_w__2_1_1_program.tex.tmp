@@ -1,0 +1,25 @@
+\hypertarget{class_u_a_s_p_a_w__2_1_1_program}{}\doxysection{UASPAW\+\_\+2.\+Program Class Reference}
+\label{class_u_a_s_p_a_w__2_1_1_program}\index{UASPAW\_2.Program@{UASPAW\_2.Program}}
+
+
+Collaboration diagram for UASPAW\+\_\+2.\+Program\+:
+% FIG 0
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \mbox{\hyperlink{class_u_a_s_p_a_w__2_1_1_program_a52e523f7905c3a9edaaf12a692b8d101}{Main}} (string\mbox{[}$\,$\mbox{]} args)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_u_a_s_p_a_w__2_1_1_program_a52e523f7905c3a9edaaf12a692b8d101}\label{class_u_a_s_p_a_w__2_1_1_program_a52e523f7905c3a9edaaf12a692b8d101}} 
+\index{UASPAW\_2.Program@{UASPAW\_2.Program}!Main@{Main}}
+\index{Main@{Main}!UASPAW\_2.Program@{UASPAW\_2.Program}}
+\doxysubsubsection{\texorpdfstring{Main()}{Main()}}
+{\footnotesize\ttfamily static void UASPAW\+\_\+2.\+Program.\+Main (\begin{DoxyParamCaption}\item[{string\mbox{[}$\,$\mbox{]}}]{args }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_program_8cs}{Program.\+cs}}\end{DoxyCompactItemize}
